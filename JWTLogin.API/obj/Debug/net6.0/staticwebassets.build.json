@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aLuYJmzhFpVxSjRkWSHLFlqDo9A8i79oqYUXP4JGPv4=",
+  "Source": "JWTLogin.API",
+  "BasePath": "_content/JWTLogin.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

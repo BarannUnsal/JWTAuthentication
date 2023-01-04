@@ -1,0 +1,17 @@
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.BL.deps.json
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.BL.dll
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.BL.pdb
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.Entity.dll
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.Entity.pdb
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.AssemblyInfo.cs
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.csproj.CopyComplete
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.dll
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\refint\JWTLogin.BL.dll
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\JWTLogin.BL.pdb
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\obj\Debug\net6.0\ref\JWTLogin.BL.dll
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.DAL.dll
+D:\USERDATA\Desktop\JWTLogin\JWTLogin.SLN\JWTLogin.BL\bin\Debug\net6.0\JWTLogin.DAL.pdb
